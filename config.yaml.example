@@ -1,0 +1,13 @@
+app:
+  env: local
+  httpaddr: 127.0.0.1
+  httpport: 7000
+
+db:
+  driver: mysql
+  host: localhost
+  port: 3306
+  name:
+  user:
+  password:
+  locale: Asia/Jakarta
